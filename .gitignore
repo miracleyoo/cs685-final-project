@@ -2,3 +2,4 @@ backup/
 /.code/
 *.pyc
 __pycache__/
+data/
