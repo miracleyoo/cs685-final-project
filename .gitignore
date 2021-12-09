@@ -3,3 +3,4 @@ backup/
 *.pyc
 __pycache__/
 data/
+results/
